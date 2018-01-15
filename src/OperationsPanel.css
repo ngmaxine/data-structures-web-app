@@ -1,0 +1,9 @@
+.ops-panel {
+  background-color: #222;
+  padding: 20px;
+}
+
+.op-button:hover {
+  background-color: #61dafb;
+  color: black;
+}
