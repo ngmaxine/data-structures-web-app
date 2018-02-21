@@ -21,5 +21,6 @@ export default {
   getParent: getParent,
   getLeftChild: getLeftChild,
   getRightChild: getRightChild,
-  getLevel: getLevel
+  getLevel: getLevel,
+  getID: getID
 }

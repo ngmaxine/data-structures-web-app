@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './OperationsPanel.css';
+import '../css/OperationsPanel.css';
 
 class OperationsPanel extends Component {
   constructor(props, context) {
